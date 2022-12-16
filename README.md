@@ -19,6 +19,7 @@ products to a shopping cart list
 
 
 ========================================
+
 The following are "Stretch Goals":
 
 6. The user should also be able to delete the products from the cart, thus
@@ -29,6 +30,7 @@ modifying the total price of the cart
 
 
 ========================================
+
 One should be able to download the github repository and open the app using shop.html.
 
 This app uses:
