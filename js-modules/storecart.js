@@ -7,7 +7,6 @@ function loadingInFunc() {
         let button = addToCartBtns[i];
         button.addEventListener('click', addToCart);
         button.addEventListener('click', CalcPrice);
-        button.addEventListener('click', storeDat);
     };
 };
 
